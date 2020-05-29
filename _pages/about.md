@@ -11,8 +11,7 @@ redirect_from:
 {% include base_path %}
 # About me
 
-HI, I am Len Li , an undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/).  
-I am major in mathematics. I am advised by [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
+HI, I am Len Li , an second-year undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/). I am major in mathematics. I am advised by [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
 I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer intern position!
 ### Research Topics
 I am interested in Computer Vision, Machine Learning and Robotics.  
@@ -26,14 +25,17 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fine-grained recognition 10/153
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail  
 <br>
+------
 
 
 <img src = "../images/openvino.png" align = "left" width = "340" height = "170">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail
 <br>
+------
 
-<img src = "../images/typhoon.gif" align = "left" width = "340" height = "340">
+<br>
+<img src = "../images/typhoon.gif" align = "left" width = "300" height = "300">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning meets Precipitation-Nowcasting
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are always using PDEs to solve Precipitation-Nowcasting or other meteorological issues. However these PDEs are time-consuming. So can we solve this problem using video prediction like ConvLSTM?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail
