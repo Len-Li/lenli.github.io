@@ -17,12 +17,7 @@ I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer inter
 ### Research Topics
 I am interested in Computer Vision, Machine Learning and Robotics. 
 
-<br>
-
 # Research Exprience 
-
-<br>
-
 
 <img src = "../images/fgvc.png" align = "left" width = "340" height = "170">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVPR 2020 herbarium FGVC challenge  
@@ -38,7 +33,7 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 
 <img src = "../images/openvino.png" align = "left" width = "340" height = "170">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail
 
 
 

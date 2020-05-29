@@ -1,13 +1,13 @@
 # main links links
 main:
-  # - title: "        "
-  #   url: /publications/
+  - title: "        "
+    url: /publications/
     
-  # - title: "        "
-  #   url: /publications/
+  - title: "        "
+    url: /publications/
     
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
   # - title: "Blog"
   #   url: /year-archive/
@@ -15,6 +15,6 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
   
