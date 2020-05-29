@@ -30,9 +30,7 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 <img src = "../images/openvino.png" align = "left" width = "340" height = "170">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detail  
-
-<br>  
-
+<br>
 
 <img src = "../images/typhoon.gif" align = "left" width = "300" height = "300">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning meets Precipitation-Nowcasting
