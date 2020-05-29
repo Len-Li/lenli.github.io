@@ -11,10 +11,11 @@ redirect_from:
 {% include base_path %}
 # About me
 
-Hello, I am Len Li , an undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/).  
-I am major in mathematics. My research interest is computer vision. I am advised by [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
+HI, I am Len Li , an undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/).  
+I am major in mathematics. I am advised by [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
 I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer intern position!
-
+### Research Topics
+I am interested in Computer Vision, Machine Learning and Robotics. 
 
 <br>
 
@@ -23,16 +24,31 @@ I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer inter
 <br>
 
 
-<img src = "../images/fgvc.png" align = "left" width = "250" height = "160">          
+<img src = "../images/fgvc.png" align = "left" width = "800" height = "400">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Project name
+CVPR 2020 herbarium FGVC challenge  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-People
+Fine-grained recognition 10/153
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Discripution
+detail
 
+
+
+<br>
+
+
+<img src = "../images/openvino.png" align = "left" width = "300" height = "150">          
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+openvino +   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+robomaster
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+detail
 
 
 
