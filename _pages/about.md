@@ -24,12 +24,10 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 <br>
 
 
-<img src = "../images/fgvc.png" align = "left" width = "800" height = "400">          
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-CVPR 2020 herbarium FGVC challenge  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Fine-grained recognition 10/153
+<img src = "../images/fgvc.png" align = "left" width = "400" height = "200">          
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVPR 2020 herbarium FGVC challenge  
+56411
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fine-grained recognition 10/153
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +38,7 @@ detail
 <br>
 
 
-<img src = "../images/openvino.png" align = "left" width = "300" height = "150">          
+<img src = "../images/openvino.png" align = "left" width = "400" height = "200">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 openvino +   
 
