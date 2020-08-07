@@ -11,8 +11,8 @@ redirect_from:
 {% include base_path %}
 # About me
 
-HI, I am Len(Leheng) Li 李乐恒, an second-year undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/). I am major in mathematics. My adviser is  [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
-I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer intern position!
+HI, I am Len(Leheng) Li 李乐恒, a third-year undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/). I am major in mathematics. My adviser is  [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html).  
+I will apply Ph.D program in 2022. I am also looking for reasearch assitant/summer intern position!
 ### Research Topics
 I am interested in Computer Vision, Machine Learning and Robotics.  
 <br>
@@ -22,8 +22,8 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 <br>
 
 <img src = "../images/fgvc.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CVPR 2020 herbarium FGVC challenge](https://www.kaggle.com/c/herbarium-2020-fgvc7/overview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale Fine-grained recognition   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:10/153  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale Fine-grained Recognition   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:10/153 &nbsp;  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
 <br>
 <br>
 <br>
@@ -31,14 +31,14 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 
 <img src = "../images/cvpr2020.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CVPR 2020 AliProducts Challenge:](https://tianchi.aliyun.com/competition/entrance/231780/introduction)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale Product Recognition 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:12/688  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:27/688 &nbsp;  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
 <br>
 <br>
 <br>
 
 
-<img src = "../images/openvino.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tech. detail*
+<img src = "../images/autoaim.gif" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster auto aim  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Tech. detail*](https://github.com/Len-Li/openvino-robomaster)
 <br>
 <br>
 <br>
