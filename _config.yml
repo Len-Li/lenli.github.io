@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Len(leheng) Li"
+  name             : "Leheng Li"
   avatar           : "profile.png"
-  bio              : "work on machine intelligence"
+  bio              : "working on machine intelligence"
   employer         :
   googlescholar    :
   email            : "lilelife@mail.dlut.edu.cn"
@@ -104,6 +104,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
+  twitter          : "LenLi16393423"
   vine             :
   weibo            :
   xing             :
